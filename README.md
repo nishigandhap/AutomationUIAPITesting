@@ -6,7 +6,7 @@ Tested the basic functionality of the Mostly.ai site according to the provided d
 
 ## Table of Contents
 
-* Site reference
+* Link reference
 * Scenarios
 * Installation
 * Running Tests
