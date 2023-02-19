@@ -155,6 +155,8 @@ allure open
 
 ## Git clone
 ```
-git clone 
+git clone https://github.com/nishigandhap/AutomationUIAPITesting
 ```
 ## Screenshot
+
+<img width="747" alt="UI-API Test screenshot" src="https://user-images.githubusercontent.com/58659856/219962709-f9673128-eaaf-44b4-bcfd-d093f62e514c.png">
