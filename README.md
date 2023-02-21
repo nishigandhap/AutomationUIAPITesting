@@ -136,8 +136,13 @@ allure --version
 ```
 
 
+**Plugin Drag and Drop**
 
+Link for reference: https://www.npmjs.com/package/@4tw/cypress-drag-drop
 
+```
+npm i @4tw/cypress-drag-drop
+```
 
 ## How to run test
 
